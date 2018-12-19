@@ -1,0 +1,35 @@
+body {
+    margin: 10px 200px 10px 275px;
+    border: 3px solid white;
+    padding: 10px 75px 10px 150px;
+    background-color: black;
+}
+
+header {
+    display: inline;
+    color: red;
+}
+
+h2 {
+    color: orange;
+}
+
+p4 {
+    color: yellow;
+}
+
+p5 {
+    color: yellowgreen
+}
+
+p6 {
+    color: green;
+}
+
+div2 {
+    color: blue;
+}
+
+div3 {
+    color: blueviolet;
+}
